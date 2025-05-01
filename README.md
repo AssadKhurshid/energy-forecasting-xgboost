@@ -25,14 +25,6 @@ This project predicts **hourly energy demand** using time series data and machin
 
 ---
 
-## 🚀 Run in Google Colab
-
-Click below to open this notebook in Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/drive/17DpuOCjmz_vwFI3xq0TDL09pb7R89BKT#scrollTo=gbABmoh3Yvxp)
-
----
-
 ## 🔧 Features Created
 
 - Hour, Day of Week, Month, Year, etc.
