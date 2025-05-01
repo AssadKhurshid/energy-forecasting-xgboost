@@ -6,11 +6,11 @@ This project predicts **hourly energy demand** using time series data and machin
 ## 📈 Preview of Output
 
 <div align="center">
-  <img src="https://github.com/your-username/energy-forecasting-xgboost/raw/main/images/prediction_plot.png" alt="Prediction Plot" width="600"/>
+  <img src="https://raw.githubusercontent.com/AssadKhurshid/energy-forecasting-xgboost/refs/heads/main/Assad_Actual_vs_predition_Test.png" alt="Prediction Plot" width="600"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/your-username/energy-forecasting-xgboost/raw/main/images/feature_importance.png" alt="Feature Importance" width="500"/>
+  <img src="https://raw.githubusercontent.com/AssadKhurshid/energy-forecasting-xgboost/refs/heads/main/Assad_Feature_importance.png" alt="Feature Importance" width="500"/>
 </div>
 
 ---
@@ -29,7 +29,7 @@ This project predicts **hourly energy demand** using time series data and machin
 
 Click below to open this notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/energy-forecasting-xgboost/blob/main/energy_forecasting.ipynb)
+[![Open In Colab](https://colab.research.google.com/drive/17DpuOCjmz_vwFI3xq0TDL09pb7R89BKT#scrollTo=gbABmoh3Yvxp)
 
 ---
 
@@ -59,7 +59,7 @@ pip install xgboost holidays pandas matplotlib seaborn
 
 - **Model**: `XGBoostRegressor`
 - **Metric**: RMSE
-- **RMSE Score**: ~⚡ _{your_score_here}_ (on test set)
+- **RMSE Score**: ~⚡ _{259.14}_ (on test set)
 
 ---
 
@@ -77,6 +77,4 @@ Feel free to open issues or submit pull requests!
 
 ---
 
-## 📜 License
 
-MIT License. See `LICENSE` file for details.
